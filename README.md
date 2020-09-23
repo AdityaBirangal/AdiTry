@@ -1,4 +1,5 @@
-[ AdiTry.Birangal.Com is hosted just for trying & exploring new things. ]
+# [AdiTry.Birangal.Com](https://aditry.birangal.com)
+[Hosted just for trying & exploring new things.]
 
 Visit my Site: [Birangal.com](https://birangal.com)
 <br>
@@ -42,7 +43,7 @@ I'm extremely passionate about Technology.
 <b>#SelfTaught</b> Developer and makes <b>Android, iOS & Web </b>Apps.
 I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</b> new <b>Tech</b> stuff...
 
-<img align ="right" src = "https://github.com/AdityaBirangal/AdityaBirangal/blob/master/megacat.png" width="250" height="250">
+<img align ="right" src = "https://raw.githubusercontent.com/AdityaBirangal/AdityaBirangal/master/megacat.png" width="250" height="250">
 
 - 🔭 I’m currently working on AdiClass App
 - 🌱 I’m currently learning Firebase
