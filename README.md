@@ -1,4 +1,4 @@
-# [AdiTry.Birangal.Com](https://aditry.birangal.com)
+# AdiTry.Birangal.Com
 [Hosted just for trying & exploring new things.]
 
 Visit my Site: [Birangal.com](https://birangal.com)
