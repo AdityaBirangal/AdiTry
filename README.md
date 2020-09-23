@@ -1,5 +1,4 @@
-# AdiTry.Birangal.Com
-[Hosted just for trying & exploring new things.]
+[AdiTry.Birangal.Com Hosted just for trying & exploring new things.]
 
 Visit my Site: [Birangal.com](https://birangal.com)
 <br>
@@ -49,7 +48,7 @@ I spend a lot of my time in <b>Learning</b>, <b>Innovating</b> & <b>Developing</
 - 🌱 I’m currently learning Firebase
 - 👯 I’m looking to collaborate on [Champool App](https://github.com/AdityaBirangal/champool)
 - 🤔 I’m looking for help with Firebase
-- 💬 Ask me about Flutter | Firebase & any Tech Stuff
+- 💬 Ask me about Flutter, Firebase & any Tech Stuff
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I need Music 🎵 while Coding...
 - 🇮🇳 Proudly Indian
